@@ -1,0 +1,20 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "Webpack Project Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalfaro18/webpack-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafalfaro18/webpack-example/issues"
+  },
+  "homepage": "https://github.com/rafalfaro18/webpack-example#readme"
+}
