@@ -61,7 +61,7 @@ typings/
 .next
 
 #webpack
-dist/bundle.js
+dist/*.js
 dist/*.png
 dist/*.woff
 dist/*.woff2
