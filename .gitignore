@@ -63,3 +63,5 @@ typings/
 #webpack
 dist/bundle.js
 dist/*.png
+dist/*.woff
+dist/*.woff2
