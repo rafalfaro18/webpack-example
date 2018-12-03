@@ -65,4 +65,3 @@ dist/*.js
 dist/*.png
 dist/*.woff
 dist/*.woff2
-dist/*.html
