@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Webpack Project Example",
   "private": true,
+  "sideEffects": false,
   "scripts": {
     "build": "webpack"
   },
